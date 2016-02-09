@@ -1119,13 +1119,13 @@ None.
 None.
 
 .ti 0
-4.3.4  FORGET PDU
+4.3.4.8  FORGET PDU
 
 The FORGET opcode is used by system operators to drop one or more
 measurements or states.
 
 .ti 0
-4.3.4.1  Applicable PAYLOADs
+4.3.4.8.1  Applicable PAYLOADs
 
 .ne 4
 The only applicable PAYLOAD values for this opcode are:
@@ -1145,7 +1145,7 @@ that matches at least one of the set PAYLOAD values.
 
 .ne 4
 .ti 0
-4.3.4.2  Data Frames
+4.3.4.8.2  Data Frames
 
 .nf
 .in +3
@@ -1158,7 +1158,7 @@ Qualified names are matched using the Name Equivalency Rules (defined
 in Section 3.2).
 
 .ti 0
-4.3.4.3  Flags
+4.3.4.8.3  Flags
 
 .ne 5
 FLAGS are interpreted the same regardless of what PAYLOAD values are set:
