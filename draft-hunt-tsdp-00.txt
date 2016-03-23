@@ -25,13 +25,13 @@ Status of this Memo
    provisions of BCP 78 and BCP 79.
 
    Internet-Drafts are working documents of the Internet Engineering
-   Task Force (IETF), its areas, and its working groups.  Note that
+   Task Force (IETF), its areas, and its working groups.   Note that
    other groups may also distribute working documents as
    Internet-Drafts.
 
    Internet-Drafts are draft documents valid for a maximum of six months
    and may be updated, replaced, or obsoleted by other documents at any
-   time.  It is inappropriate to use Internet-Drafts as reference
+   time.   It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress..
 
    The list of current Internet-Drafts can be accessed at

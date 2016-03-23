@@ -21,8 +21,8 @@
 .tl 'Expires: <Expiry Date>''<Issue Date>'
 .fi
 
-.\" Note. The ".tl" directive is used to generate the leading header 
-.\" in Internet drafts. The information specified after ".tl" provides
+.\" Note.   The ".tl" directive is used to generate the leading header 
+.\" in Internet drafts.   The information specified after ".tl" provides
 .\" left, center and right components of a line separated by the ' character
 .\" in the following manner:
 .\" 
@@ -49,9 +49,9 @@ Status of this Memo
 
 This Internet-Draft is submitted to IETF in full conformance with the provisions of BCP\078 and BCP\079.
 
-Internet-Drafts are working documents of the Internet Engineering Task Force (IETF), its areas, and its working groups.  Note that other groups may also distribute working documents as \%Internet-Drafts.
+Internet-Drafts are working documents of the Internet Engineering Task Force (IETF), its areas, and its working groups.   Note that other groups may also distribute working documents as \%Internet-Drafts.
 
-Internet-Drafts are draft documents valid for a maximum of six months and may be updated, replaced, or obsoleted by other documents at any time.  It is inappropriate to use Internet-Drafts as reference material or to cite them other than as "work in progress."
+Internet-Drafts are draft documents valid for a maximum of six months and may be updated, replaced, or obsoleted by other documents at any time.   It is inappropriate to use Internet-Drafts as reference material or to cite them other than as "work in progress."
 
 The list of current Internet-Drafts can be accessed at \%http://www.ietf.org/1id-abstracts.html
 
@@ -62,9 +62,9 @@ The list of Internet-Draft Shadow Directories can be accessed at http://www.ietf
 Copyright and License Notice\" Boilerplate from December 2009
 
 .\" NOTE: Insert current <year> in the following paragraph
-Copyright (c) <year> IETF Trust and the persons identified as the document authors. All rights reserved.
+Copyright (c) <year> IETF Trust and the persons identified as the document authors.   All rights reserved.
 
-This document is subject to BCP\078 and the IETF Trust's Legal Provisions Relating to IETF Documents \%(http://trustee.ietf.org/license-info) in effect on the date of publication of this document. Please review these documents carefully, as they describe your rights and restrictions with respect to this document. Code Components extracted from this document must include Simplified BSD License text as described in Section\04.e of the Trust Legal Provisions and are provided without warranty as described in the Simplified BSD License.
+This document is subject to BCP\078 and the IETF Trust's Legal Provisions Relating to IETF Documents \%(http://trustee.ietf.org/license-info) in effect on the date of publication of this document.   Please review these documents carefully, as they describe your rights and restrictions with respect to this document.   Code Components extracted from this document must include Simplified BSD License text as described in Section\04.e of the Trust Legal Provisions and are provided without warranty as described in the Simplified BSD License.
 
 
 
@@ -153,7 +153,7 @@ C:\\dir\\subdir\\file.ext  Shows inclusion of backslash "\\".
 5.1  Normative References
 
 .in 14
-.\" \# REF  -- Managed reference list. Syntax: [RFC]nnnn[;Label], ... ,[RFC]nnnn[;Label]
+.\" \# REF  -- Managed reference list.   Syntax: [RFC]nnnn[;Label], ... ,[RFC]nnnn[;Label]
 .\" \# 2119;KEYWORDS, 1776, RFC1925;TRUTHS
 .ti 3
 [KEYWORDS] Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
@@ -175,7 +175,7 @@ C:\\dir\\subdir\\file.ext  Shows inclusion of backslash "\\".
 5.2  Informative References
 
 .in 14
-.\" \# REF  -- Managed reference list. Syntax: [RFC]nnnn[;Label], ... ,[RFC]nnnn[;Label]
+.\" \# REF  -- Managed reference list.   Syntax: [RFC]nnnn[;Label], ... ,[RFC]nnnn[;Label]
 .\" \# 3514;EVILBIT, 5513, 5514
 .ti 3
 [EVILBIT]  Bellovin, S., "The Security Flag in the IPv4 Header", RFC 3514, April 1 2003.
